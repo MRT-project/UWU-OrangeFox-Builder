@@ -3,13 +3,13 @@
 
 ![banner](https://i.imgur.com/hdLJ3Hi.png "banner")
 
-[![](https://img.shields.io/github/actions/workflow/status/UWU-TEAM/OrangeFox-Action-Builder/test.yml?style=for-the-badge&color=fee4d0&logo=githubactions&logoColor=fee4d0)](https://github.com/UWU-TEAM/OrangeFox-Action-Builder/actions/workflows/test.yml)
-[![](https://img.shields.io/github/issues/UWU-TEAM/OrangeFox-Action-Builder?style=for-the-badge&color=fee4d0&logo=files&logoColor=fee4d0)](https://github.com/UWU-TEAM/OrangeFox-Action-Builder/issues)
-[![](https://img.shields.io/github/stars/UWU-TEAM/OrangeFox-Action-Builder?style=for-the-badge&color=fee4d0&logo=starship&logoColor=fee4d0)](https://github.com/UWU-TEAM/OrangeFox-Action-Builder/stargazers)
-[![](https://img.shields.io/github/forks/UWU-TEAM/OrangeFox-Action-Builder?style=for-the-badge&color=fee4d0&logo=git&logoColor=fee4d0)](https://github.com/UWU-TEAM/OrangeFox-Action-Builder/forks)
-[![](https://img.shields.io/github/license/UWU-TEAM/OrangeFox-Action-Builder?style=for-the-badge&color=fee4d0&logo=apache&logoColor=fee4d0)](https://github.com/UWU-TEAM/OrangeFox-Action-Builder/blob/main/LICENSE)
-[![](https://img.shields.io/github/v/release/UWU-TEAM/OrangeFox-Action-Builder?style=for-the-badge&color=fee4d0&logo=github&logoColor=fee4d0)](https://github.com/UWU-TEAM/OrangeFox-Action-Builder/releases/latest)
-[![](https://img.shields.io/github/last-commit/UWU-TEAM/OrangeFox-Action-Builder?style=for-the-badge&color=fee4d0&logo=codeigniter&logoColor=fee4d0)](https://github.com/UWU-TEAM/OrangeFox-Action-Builder/commits/main/)
+[![](https://img.shields.io/github/actions/workflow/status/UWU-TEAM/UWU-OrangeFox-Builder/test.yml?style=for-the-badge&color=fee4d0&logo=githubactions&logoColor=fee4d0)](https://github.com/UWU-TEAM/UWU-OrangeFox-Builder/actions/workflows/test.yml)
+[![](https://img.shields.io/github/issues/UWU-TEAM/UWU-OrangeFox-Builder?style=for-the-badge&color=fee4d0&logo=files&logoColor=fee4d0)](https://github.com/UWU-TEAM/UWU-OrangeFox-Builder/issues)
+[![](https://img.shields.io/github/stars/UWU-TEAM/UWU-OrangeFox-Builder?style=for-the-badge&color=fee4d0&logo=starship&logoColor=fee4d0)](https://github.com/UWU-TEAM/UWU-OrangeFox-Builder/stargazers)
+[![](https://img.shields.io/github/forks/UWU-TEAM/UWU-OrangeFox-Builder?style=for-the-badge&color=fee4d0&logo=git&logoColor=fee4d0)](https://github.com/UWU-TEAM/UWU-OrangeFox-Builder/forks)
+[![](https://img.shields.io/github/license/UWU-TEAM/UWU-OrangeFox-Builder?style=for-the-badge&color=fee4d0&logo=apache&logoColor=fee4d0)](https://github.com/UWU-TEAM/UWU-OrangeFox-Builder/blob/main/LICENSE)
+[![](https://img.shields.io/github/v/release/UWU-TEAM/UWU-OrangeFox-Builder?style=for-the-badge&color=fee4d0&logo=github&logoColor=fee4d0)](https://github.com/UWU-TEAM/UWU-OrangeFox-Builder/releases/latest)
+[![](https://img.shields.io/github/last-commit/UWU-TEAM/UWU-OrangeFox-Builder?style=for-the-badge&color=fee4d0&logo=codeigniter&logoColor=fee4d0)](https://github.com/UWU-TEAM/UWU-OrangeFox-Builder/commits/main/)
 
 > [!WARNING]
 >
@@ -39,7 +39,7 @@ jobs:
       uses: actions/checkout@v4
 
     - name: OrangeFox Build
-      uses: UWU-TEAM/OrangeFox-Action-Builder@v1
+      uses: UWU-TEAM/UWU-OrangeFox-Builder@v1
       with:
         USER_NAME: 'YourName'
         USER_EMAIL: 'YourE-mail@gmail.com'
@@ -84,7 +84,7 @@ jobs:
 
 ## Credits
 - [slimhub_actions](https://github.com/rokibhasansagar/slimhub_actions)
-- [carlodandan](https://github.com/carlodandan/OrangeFox-Action-Builder)
+- [carlodandan](https://github.com/carlodandan/UWU-OrangeFox-Builder)
 - [kinguser981](https://github.com/kinguser981/OrangeFox-Recovery-Builder-2024)
 - [azwhikaru](https://github.com/azwhikaru/Action-OFRP-Builder)
 - [dabao1955](https://github.com/dabao1955/kernel_build_action)

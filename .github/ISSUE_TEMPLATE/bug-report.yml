@@ -23,7 +23,7 @@ body:
       label: Configuration
       description: "Please type the configuration."
       value: |
-        uses: UWU-TEAM/OrangeFox-Action-Builder@main
+        uses: UWU-TEAM/UWU-OrangeFox-Builder@main
         with:
           xxx: xxx
     validations:
