@@ -39,7 +39,7 @@ jobs:
       uses: actions/checkout@v4
 
     - name: OrangeFox Build
-      uses: UWU-TEAM/UWU-OrangeFox-Builder@v1
+      uses: UWU-TEAM/UWU-OrangeFox-Builder@main
       with:
         USER_NAME: 'YourName'
         USER_EMAIL: 'YourE-mail@gmail.com'
