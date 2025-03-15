@@ -1,4 +1,4 @@
-# OrangeFox Action Builder
+# UWU OrangeFox Builder
 🦊 A Workflow to build OrangeFox recovery automatically
 
 ![banner](https://i.imgur.com/hdLJ3Hi.png "banner")
@@ -39,7 +39,7 @@ jobs:
       uses: actions/checkout@v4
 
     - name: OrangeFox Build
-      uses: UWU-TEAM/UWU-OrangeFox-Builder@main
+      uses: UWU-TEAM/UWU-OrangeFox-Builder@v1.0.0
       with:
         USER_NAME: 'YourName'
         USER_EMAIL: 'YourE-mail@gmail.com'

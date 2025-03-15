@@ -1,10 +1,10 @@
-name: "🦊 Orangefox Recovery"
+name: "🦊 Orangefox Recovery Builder Action"
 description: "Building OrangeFox Recovery Using Github Action"
 author: "UWU-TEAM"
 
 branding:
   icon: 'terminal'
-  color: 'orange'
+  color: 'yellow'
 
 inputs:
   FOX_SYNC:
