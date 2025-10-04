@@ -95,7 +95,7 @@ runs:
     - name: 💽 Swap Space
       uses: pierotofy/set-swap-space@master
       with:
-        swap-size-gb: 15
+        swap-size-gb: 16
 
     - name: 🎡 Set GitHub Path
       run: echo "$GITHUB_ACTION_PATH" >> $GITHUB_PATH

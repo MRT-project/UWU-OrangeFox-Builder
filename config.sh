@@ -1,7 +1,7 @@
 #!/bin/bash
 export TERM=xterm-256color
 
-LOGO="https://i.imgur.com/KYD94sP.png"
+LOGO="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSKQkL6PDlh_yc0uuf_zfIhuuUsBikUf6A5JZbwQ-tX6w&s=10"
 
 # Don't change this line
 #===========================================
